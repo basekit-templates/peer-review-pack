@@ -1,0 +1,61 @@
+Handle,Title,Long Description,Visible,Stock Track,Stock Warning Level,Stock Unlimited,Category,Tags,Image,Option Names,Option Values,Price,SKU,Weight,Stock
+tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
+minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
+trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
+trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
+trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
+trousers1,Tall Image Trousers,,yes,no,,yes,work clothes,Tall,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,,,10,,20,10
+trousers2,Square Image Trousers,,yes,no,,yes,work clothes,Square,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-square.jpg,,,16,,50,10
+Huge Image Product,This product has a huge image!,This product has a huge image!,yes,no,,,t-shirts,t-shirt,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-huge.jpg,Size,L,20,,10,100
+filler-tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+filler-tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
+filler-minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
+filler-trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
+filler-trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
+filler-trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
+filler-trousers1,Tall Image Trousers,,yes,no,,yes,work clothes,Tall,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,,,10,,20,10
+filler-trousers2,Square Image Trousers,,yes,no,,yes,work clothes,Square,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-square.jpg,,,16,,50,10
+filler-Huge Image Product,This product has a huge image!,This product has a huge image!,yes,no,,,t-shirts,t-shirt,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-huge.jpg,Size,L,20,,10,100
+filler2-tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+filler2-tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
+filler2-minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
+filler2-trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
+filler2-trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
+filler2-trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
+filler2-trousers1,Tall Image Trousers,,yes,no,,yes,work clothes,Tall,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,,,10,,20,10
+filler2-trousers2,Square Image Trousers,,yes,no,,yes,work clothes,Square,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-square.jpg,,,16,,50,10
+filler2-Huge Image Product,This product has a huge image!,This product has a huge image!,yes,no,,,t-shirts,t-shirt,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-huge.jpg,Size,L,20,,10,100
+filler3-tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+filler3-tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
+filler3-minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
+filler3-trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
+filler3-trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
+filler3-trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
+filler3-trousers1,Tall Image Trousers,,yes,no,,yes,work clothes,Tall,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,,,10,,20,10
+filler3-trousers2,Square Image Trousers,,yes,no,,yes,work clothes,Square,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-square.jpg,,,16,,50,10
+filler3-Huge Image Product,This product has a huge image!,This product has a huge image!,yes,no,,,t-shirts,t-shirt,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-huge.jpg,Size,L,20,,10,100
+filler4-tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+filler4-tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
+filler4-minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
+filler4-trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
+filler4-trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
+filler4-trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
+filler4-trousers1,Tall Image Trousers,,yes,no,,yes,work clothes,Tall,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,,,10,,20,10
+filler4-trousers2,Square Image Trousers,,yes,no,,yes,work clothes,Square,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-square.jpg,,,16,,50,10
+filler4-Huge Image Product,This product has a huge image!,This product has a huge image!,yes,no,,,t-shirts,t-shirt,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-huge.jpg,Size,L,20,,10,100
+filler5-tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+filler5-tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
+filler5-minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
+filler5-trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
+filler5-trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
+filler5-trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
+filler5-trousers1,Tall Image Trousers,,yes,no,,yes,work clothes,Tall,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,,,10,,20,10
+filler5-trousers2,Square Image Trousers,,yes,no,,yes,work clothes,Square,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-square.jpg,,,16,,50,10
+filler5-Huge Image Product,This product has a huge image!,This product has a huge image!,yes,no,,,t-shirts,t-shirt,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-huge.jpg,Size,L,20,,10,100

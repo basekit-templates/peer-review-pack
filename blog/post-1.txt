@@ -1,0 +1,150 @@
+--------------------------------------------------------
+Step 1: Follow: Blog > Add post
+
+--------------------------------------------------------
+Step 2: Paste Title:
+Post One: This Post Has All the Features!
+
+--------------------------------------------------------
+Step 3: In the text editor, switch to direct code input mode by clicking the '< >' button
+
+--------------------------------------------------------
+Step 4: Paste the following code
+
+<p>
+	Lorem ipsum dolor sit amet, <b style="background-color: initial;">this is a bold text</b>. Nullam <i style="background-color: initial;">this is italics</i> sem luctus mollis. Sed ut feugiat orci. This text has <strike style="background-color: initial;">striketrough</strike>&nbsp;quis dui bibendum,
+</p>
+<ul>
+	<li>Unordered list line</li>
+	<li>Unordered list line</li>
+	<li>Unordered list line
+	<ul>
+		<li>Indented list line
+		<ul>
+			<li>Indented list line</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+<p>
+	Nullam euismod justo justo, quis vestibulum mauris cursus at.&nbsp;
+</p>
+<ol>
+	<li>Ordered list line</li>
+	<li>Ordered list line</li>
+	<li>Ordered list line
+	<ol>
+		<li>Indented list line
+		<ol>
+			<li>Indented list line</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+<table>
+<thead>
+<tr>
+	<td>
+		Table Header
+	</td>
+	<td>
+		Column 1
+	</td>
+	<td>
+		Column 2
+	</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>
+		Table Cell
+	</td>
+	<td>
+		Duis ultricies aliquet purus
+	</td>
+	<td>
+		Sed pretium, orci a gravida tempus
+	</td>
+</tr>
+<tr>
+	<td>
+		Phasellus venenatis quam
+	</td>
+	<td>
+		Sed eget urna ac arcu pharetra tempus
+	</td>
+	<td>
+		Phasellus venenatis
+	</td>
+</tr>
+<tr>
+	<td>
+		Etiam iaculis lacus
+	</td>
+	<td>
+		Sed eu condimentum
+	</td>
+	<td>
+		Leo sapien faucibus odio
+	</td>
+</tr>
+</tbody>
+</table>
+<p>
+	There is a link, look!&nbsp;<a href="http://www.google.com/">this is a link</a>.&nbsp;
+</p>
+<p>
+	<strong>This text should be aligned to the left.</strong>&nbsp;Sed pretium, orci a gravida tempus, leo sapien faucibus odio, sit amet tempor metus libero eget tortor.&nbsp;
+</p>
+<p style="text-align: right;">
+	<strong>This text should be aligned to the right.</strong>&nbsp;Vestibulum tincidunt ultricies ante, eu mattis orci interdum et. Phasellus venenatis quam nec ultrices aliquet.&nbsp;
+</p>
+<p style="text-align: center;">
+	<strong>This text should be aligned to the centre.</strong>&nbsp;Sed eget urna ac arcu pharetra tempus.&nbsp;
+</p>
+<p style="text-align: justify;">
+	<strong>This text should be justified.</strong>&nbsp;Proin finibus lacus dolor, sit amet consectetur ante porttitor non. Ut sagittis efficitur orci. Etiam iaculis lacus id pharetra semper. Phasellus vel mauris ut sapien tincidunt commodo vel at turpis. Vivamus at dolor porta elit consectetur feugiat pulvinar vitae augue. Nullam congue feugiat ornare.
+Sed eu condimentum nisi. Vivamus fermentum metus eu convallis pulvinar.&nbsp;
+</p>
+<p style="text-align: justify;">
+	Here is horizontal rule
+</p>
+<hr>
+<p>
+	Here goes image:
+</p>
+<p>
+	<img src="https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/blog-post-image1.jpeg">
+</p>
+<p>
+	<span style="color: rgb(192, 80, 77);">This text is red.&nbsp;Nullam et lobortis libero, a commodo orci.</span>&nbsp;
+</p>
+<p>
+	This text has an orange background.&nbsp;Maecenas vitae massa tellus.&nbsp;
+</p>
+
+
+--------------------------------------------------------
+Step 5: Fill in 'Post summary'
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere velit ac sem luctus mollis. Sed ut feugiat orci. Sed posuere neque quis dui bibendum, eget elementum augue lacinia.
+
+--------------------------------------------------------
+Step 6: Set 'Feature image'
+'peer-review-pack/images/blog-wide-feature-image.jpg'
+
+--------------------------------------------------------
+Step 7: Set category
+'Quite longish category'
+
+--------------------------------------------------------
+Step 8: Add couple of tags:
+'Short'
+'Longer tag'
+'Extremely long tag'
+
+--------------------------------------------------------
+Step 9: Publish the post
