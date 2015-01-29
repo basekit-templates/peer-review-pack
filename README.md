@@ -1,3 +1,3 @@
-# peer-review-pack
+# Peer Review Pack
 
 Assets for templates' peer-reviews
