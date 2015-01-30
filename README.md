@@ -1,5 +1,5 @@
 # Template Peer Review
-  - Install template in your site. Unless it's absolutely neccesarry we shoud test in Editor, not in TDK
+  - Install template in your BaseKit peerreview site. Unless it's absolutely neccesarry we shoudn't test sites in TDK, but in Editor
   - Clone the template's repository to your local machine to check filesizes, metadata file etc.
   
 ### Blog Plugin
