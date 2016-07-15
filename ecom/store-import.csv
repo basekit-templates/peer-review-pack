@@ -1,8 +1,10 @@
-Handle,Title,Long Description,Visible,Stock Track,Stock Warning Level,Stock Unlimited,Category,Tags,Image,Option Names,Option Values,Price,SKU,Weight,Stock
 tshirt,Fruit of the Loom Heavy Cotton T-Shirt,Plain Un-Branded Heavy Weight 100% Preshrunk Jersey Cotton T-Shirt. Fabric Weight 185gms White / Colours 195 gms - Sizes Small-XXL. Collar Style: Crew One Piece Rib Crew Neck with Shoulder to Shoulder Taping. Twin Needle Stitching Detail on Sleeves & Hem,yes,yes,45,no,t-shirts,"t-shirt;cotton,clothes",https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tshirt-blue.jpg,Size;Colour,S;Blue,10,,150,20
+
 tshirt,,,yes,yes,45,no,,"t-shirt;cotton,clothes",,Size;Colour,M;Red,10,,150,20
 minimal,Minimal product,,yes,yes,45,no,,,,,,1,,50,1
-trousers,Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
+trousers,
+
+Tall Image Trousers,"Brand SITE KING. Cargo Work Trousers With 8 Pockets - Black or Navy Size 28 to 52. 2 Side Thigh Cargo Pockets with Velcro Flaps.
 2 Side & 2 Rear Pockets With Velcro Flaps. Side pen pockets Button Fastening At Waist",yes,no,2,no,work clothes,,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-tall.jpg,"Size;Colour;Accessory,Lenght",M;Black;Pockets;Short,250000,,5,0
 trousers,,,yes,no,45,no,,cargo;trousers;work,,"Size;Colour;Accessory,Lenght",L;Red;Belt;Medium,26000,,4,2
 trousers3,Wide Image Trousers,,yes,no,45,no,work clothes,Wide,https://dl.dropboxusercontent.com/u/20639526/Peer%20Review%20files/product-wide.jpg,"Size;Colour;Accessory,Lenght",S:Black;Straps;Long,1000,,3,5
